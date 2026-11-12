@@ -1,0 +1,8 @@
+{
+  "version": "0.1.1",
+  "platform": "windows-x64",
+  "file": "TadexConnectSetup-0.1.1-x64.exe",
+  "url": "https://edgartv1.github.io/tadex-telemetry/downloads/TadexConnectSetup-0.1.1-x64.exe",
+  "sha256": "9b282a6e1cd6efeb7b2f8c2d8a1403c5548094319c3d7dc402de84e0dcc74840",
+  "signed": false
+}

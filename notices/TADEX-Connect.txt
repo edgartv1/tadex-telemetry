@@ -1,0 +1,77 @@
+TADEX CONNECT — USER AGREEMENT / ACUERDO DE USUARIO
+Version 0.1.1 · 2026-11-11
+Copyright (c) 2026 Edgar Tadeo Vergara Velasco. All rights reserved.
+Contact / Contacto: etadeove@gmail.com
+Full terms / Condiciones completas:
+https://edgartv1.github.io/tadex-telemetry/terms/
+https://edgartv1.github.io/tadex-telemetry/es/terms/
+Privacy / Privacidad:
+https://edgartv1.github.io/tadex-telemetry/privacy/
+
+ENGLISH
+By installing TADEX Connect you accept this companion agreement. You receive
+a personal, non-exclusive license to install and use it on Windows computers
+you own or are authorized to operate to relay supported simulation telemetry
+to TADEX. Do not sell, repackage or redistribute TADEX binaries without
+permission, infringe rights, use unauthorized systems or networks, or use
+the software for unlawful activity. Third-party license rights remain intact.
+You may uninstall at any time; material unlawful use or breach may terminate
+this license subject to applicable law.
+
+Simulation only: never use it to drive a real vehicle or for safety-critical
+decisions. Games, hardware and network access are supplied separately.
+Compatibility depends on the game version, platform, available telemetry,
+device and network. Future games and features are not promised. TADEX is not
+affiliated with game publishers or Microsoft. Review requested permissions
+and configuration changes; back up important settings and close games when
+instructed. Restore preserves files modified after preparation. Local UDP,
+HTTP and WebSocket traffic is unencrypted; use a trusted network.
+
+To the extent permitted by law, this free companion is supplied as available
+without guarantees of uninterrupted service, complete data or fitness for a
+particular purpose. The developer is not liable for indirect/consequential
+loss, lost profits or lost game progress where such limits are lawful.
+No limit excludes fraud, intentional misconduct, gross negligence, personal
+injury or liability or consumer rights that cannot legally be excluded.
+No mandatory arbitration or exclusive foreign forum is imposed.
+
+No TADEX account or cloud telemetry upload is implemented. Preferences and
+game configuration backups stay on the PC. Optional Microsoft downloads use
+Microsoft services and terms. The SCS plugin and SDK retain the notices in
+licenses/. TADEX's mobile iOS license is separately governed by Apple's
+Standard EULA. PRO purchases, refunds and restores are handled by Apple;
+this free companion cannot activate a mobile license.
+
+ESPAÑOL
+Al instalar TADEX Connect aceptas este acuerdo del complemento. Recibes una
+licencia personal y no exclusiva para instalarlo y usarlo en PC Windows
+propios o autorizados para enviar telemetría de simulación compatible a
+TADEX. No vendas, reempaquetes ni redistribuyas binarios TADEX sin permiso,
+infrinjas derechos, accedas a sistemas o redes sin autorización ni lo uses
+para actividades ilegales. Se conservan los derechos de licencias de terceros.
+Puedes desinstalarlo cuando quieras; un incumplimiento material o uso ilícito
+puede terminar la licencia conforme a la ley.
+
+Solo simulación: nunca para conducir vehículos reales ni decisiones críticas
+de seguridad. Juegos, hardware y red se obtienen aparte. La compatibilidad
+depende del juego, versión, plataforma, datos disponibles, dispositivo y red.
+No se prometen juegos ni funciones futuros. TADEX es independiente de los
+editores y Microsoft. Revisa permisos y cambios solicitados, respalda ajustes
+importantes y cierra el juego cuando se indique. Restaurar conserva archivos
+modificados después de preparar. UDP, HTTP y WebSocket locales no están
+cifrados; usa una red de confianza.
+
+En lo permitido por la ley, el complemento gratuito se ofrece según su
+disponibilidad sin garantizar servicio ininterrumpido, datos completos ni
+idoneidad para un fin. No se responde por pérdidas indirectas o consecuentes,
+lucro cesante ni pérdida de progreso donde esa limitación sea lícita.
+No se excluyen fraude, dolo, negligencia grave, daños personales, otras
+responsabilidades ni derechos del consumidor irrenunciables. No se impone
+arbitraje obligatorio ni fuero extranjero exclusivo.
+
+No hay cuenta TADEX ni envío de telemetría a una nube. Las preferencias y
+respaldos del juego permanecen en el PC. Las descargas opcionales de Microsoft
+usan sus servicios y condiciones. El plugin y SDK SCS conservan los avisos en
+licenses/. La licencia de la app iOS se rige por separado por el EULA estándar
+de Apple. Apple gestiona PRO, reembolsos y restauraciones; este complemento
+gratuito no activa licencias móviles.

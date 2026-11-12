@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edgartv1.github.io/tadex-telemetry/sitemap.xml
